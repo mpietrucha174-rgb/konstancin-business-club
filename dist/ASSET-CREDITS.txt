@@ -1,0 +1,9 @@
+Park Zdrojowy photograph:
+Author: Uczentv (Wikimedia Commons).
+License: Creative Commons Attribution 4.0 International.
+https://creativecommons.org/licenses/by/4.0/
+Source: https://commons.wikimedia.org/wiki/File:Park_Zdrojowy_im._hrabiego_Witolda_Sk%C3%B3rzewskiego_w_Konstancinie-Jeziornie.jpg
+Image is displayed cropped, with overlays and reduced saturation/opacity.
+
+All 3D board, house, hotel, utility and pawn geometry is implemented for this game.
+The game uses Three.js, distributed under the MIT license.

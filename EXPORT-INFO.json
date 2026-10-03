@@ -1,0 +1,18 @@
+{
+  "game": "Konstancin Business Club",
+  "export_date": "2026-10-03",
+  "original_source_commit": "8de7838c77e3a209955e1a66a8d18d3e094f8f0a",
+  "board_fields": 40,
+  "event_cards": 31,
+  "portable_runtime": "Node.js >=24.0.0",
+  "includes_prebuilt_frontend": true,
+  "includes_live_room_database": false,
+  "original_sources": "original-sites/",
+  "assets_sha256": {
+    "park-zdrojowy.jpg": "113225b1e76453fdf1a28b8fbaf666e87f2b5bc8bdc27ac0ea2c1a6cdc79f605",
+    "ASSET-CREDITS.txt": "cc102c2127d1e370ee9ef3a0752607b3363b1c36991e6291acae5ef6333bb6d8",
+    "town.png": "28548b1a2a09b87c85525b2b98b1fc69fe78bc130175a8c8d53582e7faec2c51",
+    "pawns-3d.png": "f84dea480b9d6d44caa8fd1747d2d08e6c0a78b6287e18ec4fbcd324d87f7914",
+    "favicon.svg": "2486f97b308cdb9ca32b057b91bec915c3513f830c2c167be990d81e9a27f0d4"
+  }
+}

@@ -1,0 +1,11 @@
+KONSTANCIN BUSINESS CLUB — AKTUALNY PEŁNY KOD, 03.10.2026
+
+1. Zainstaluj Node.js 24.
+2. Rozpakuj CAŁY ZIP.
+3. Kliknij URUCHOM-WINDOWS.bat.
+4. Otwórz http://localhost:3000 i zostaw okno serwera otwarte.
+
+Do grania nie jest potrzebne npm install ani konto ChatGPT.
+Do edycji: w folderze gry uruchom npm ci, zmień kod, następnie npm run build.
+Pełna instrukcja uruchomienia, gry online i edycji: README.md.
+Przekaż znajomemu cały ZIP — zawiera źródła, grafiki, gotową grę i serwer.
